@@ -1,0 +1,13 @@
+/home/goldrush/Project_C#/begcshcollections/src/Dictionaries/bin/Debug/netcoreapp3.1/Dictionaries
+/home/goldrush/Project_C#/begcshcollections/src/Dictionaries/bin/Debug/netcoreapp3.1/Dictionaries.deps.json
+/home/goldrush/Project_C#/begcshcollections/src/Dictionaries/bin/Debug/netcoreapp3.1/Dictionaries.runtimeconfig.json
+/home/goldrush/Project_C#/begcshcollections/src/Dictionaries/bin/Debug/netcoreapp3.1/Dictionaries.runtimeconfig.dev.json
+/home/goldrush/Project_C#/begcshcollections/src/Dictionaries/bin/Debug/netcoreapp3.1/Dictionaries.dll
+/home/goldrush/Project_C#/begcshcollections/src/Dictionaries/bin/Debug/netcoreapp3.1/Dictionaries.pdb
+/home/goldrush/Project_C#/begcshcollections/src/Dictionaries/obj/Debug/netcoreapp3.1/Dictionaries.csprojAssemblyReference.cache
+/home/goldrush/Project_C#/begcshcollections/src/Dictionaries/obj/Debug/netcoreapp3.1/Dictionaries.AssemblyInfoInputs.cache
+/home/goldrush/Project_C#/begcshcollections/src/Dictionaries/obj/Debug/netcoreapp3.1/Dictionaries.AssemblyInfo.cs
+/home/goldrush/Project_C#/begcshcollections/src/Dictionaries/obj/Debug/netcoreapp3.1/Dictionaries.csproj.CoreCompileInputs.cache
+/home/goldrush/Project_C#/begcshcollections/src/Dictionaries/obj/Debug/netcoreapp3.1/Dictionaries.dll
+/home/goldrush/Project_C#/begcshcollections/src/Dictionaries/obj/Debug/netcoreapp3.1/Dictionaries.pdb
+/home/goldrush/Project_C#/begcshcollections/src/Dictionaries/obj/Debug/netcoreapp3.1/Dictionaries.genruntimeconfig.cache

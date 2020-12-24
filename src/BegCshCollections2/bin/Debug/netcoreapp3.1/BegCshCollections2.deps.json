@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "BegCshCollections2/1.0.0": {
+        "runtime": {
+          "BegCshCollections2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BegCshCollections2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
