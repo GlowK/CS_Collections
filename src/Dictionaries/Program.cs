@@ -7,21 +7,19 @@ namespace Dictionaries
     {
         static void Main(string[] args)
         {
-            Country norway = new Country("Norway", "NOR", "Europe", 5_282_223);
-            Country finland = new Country("Finland", "FIN", "Europe", 5_111_303);
+            string filePath = @"/home/goldrush/Project_C#/begcshcollections/src/BegCshCollections/Pop.csv";
+            CsvReader reader = new CsvReader(filePath);
+            Dictionary<string, Country> countries = reader.ReadAllCountries();
 
-            var countries = new Dictionary<string, Country>();
+            System.Console.WriteLine("Which country code do you want to look for?");
+            string userInput = Console.ReadLine();
 
-            countries.Add(norway.Code, norway);
-            countries.Add(finland.Code, finland);
-
-            foreach (var item in countries.Values)
-            {
-                System.Console.WriteLine($"{item.Name}, {item.Code}, {item.Population}");
+            bool gotCountry = countries.TryGetValue(userInput, out Country country);
+            if(!gotCountry){
+                System.Console.WriteLine($"Sorry, there is no country with code, {userInput}");
+            }else{
+                System.Console.WriteLine($"{country.Name} has population {PopulationFormatter.FormatPopulation(country.Population)}");
             }
-
-            //Test
-
         }
     }
 }

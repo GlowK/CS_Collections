@@ -1,0 +1,13 @@
+/home/goldrush/Project_C#/begcshcollections/src/BegCshCollections4/bin/Debug/netcoreapp3.1/BegCshCollections4
+/home/goldrush/Project_C#/begcshcollections/src/BegCshCollections4/bin/Debug/netcoreapp3.1/BegCshCollections4.deps.json
+/home/goldrush/Project_C#/begcshcollections/src/BegCshCollections4/bin/Debug/netcoreapp3.1/BegCshCollections4.runtimeconfig.json
+/home/goldrush/Project_C#/begcshcollections/src/BegCshCollections4/bin/Debug/netcoreapp3.1/BegCshCollections4.runtimeconfig.dev.json
+/home/goldrush/Project_C#/begcshcollections/src/BegCshCollections4/bin/Debug/netcoreapp3.1/BegCshCollections4.dll
+/home/goldrush/Project_C#/begcshcollections/src/BegCshCollections4/bin/Debug/netcoreapp3.1/BegCshCollections4.pdb
+/home/goldrush/Project_C#/begcshcollections/src/BegCshCollections4/obj/Debug/netcoreapp3.1/BegCshCollections4.csprojAssemblyReference.cache
+/home/goldrush/Project_C#/begcshcollections/src/BegCshCollections4/obj/Debug/netcoreapp3.1/BegCshCollections4.AssemblyInfoInputs.cache
+/home/goldrush/Project_C#/begcshcollections/src/BegCshCollections4/obj/Debug/netcoreapp3.1/BegCshCollections4.AssemblyInfo.cs
+/home/goldrush/Project_C#/begcshcollections/src/BegCshCollections4/obj/Debug/netcoreapp3.1/BegCshCollections4.csproj.CoreCompileInputs.cache
+/home/goldrush/Project_C#/begcshcollections/src/BegCshCollections4/obj/Debug/netcoreapp3.1/BegCshCollections4.dll
+/home/goldrush/Project_C#/begcshcollections/src/BegCshCollections4/obj/Debug/netcoreapp3.1/BegCshCollections4.pdb
+/home/goldrush/Project_C#/begcshcollections/src/BegCshCollections4/obj/Debug/netcoreapp3.1/BegCshCollections4.genruntimeconfig.cache
